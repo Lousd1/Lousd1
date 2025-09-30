@@ -23,7 +23,7 @@
 
 <!-- Sun / luxury vibe on the left -->
 <circle cx="90" cy="70" r="30" fill="url(#sun)"/>
-<text x="140" y="78" class="title">Louise</text>
+<text x="140" y="78" class="title">Laïla</text>
 <text x="140" y="105" class="subtitle">Yachting ➜ Data Analysis</text>
 
 <!-- Boat sailing to the right -->
