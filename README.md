@@ -72,3 +72,6 @@ timeline
 <img width="200" height="489" alt="projet_final" src="https://github.com/user-attachments/assets/9ab8399d-8970-4e00-907e-fe9e092157a6" /> 
 
 The analysis compare catalogs from Netflix, Disney+, Hulu, and Prime Video by ingesting, standardizing, and unifying platform data, then enriching gaps with an API. The analysis tracks trends over time, genre popularity, and content strategy (format mix, audience, geography, recency). The goal is to surface actionable insights and forward-looking signals to guide content acquisition and regional expansion. Key metrics include library growth, genre diversity, audience mix, country distribution and release recency.
+
+---
+![Snake animation](https://github.com/Lousd1/Lousd1/blob/output/github-contribution-grid-snake.svg)
