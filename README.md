@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#languages : SQL, Python, 
+![certification (1)](https://github.com/user-attachments/assets/1fbaefc7-af70-4895-9c15-c4763d513dfc)
