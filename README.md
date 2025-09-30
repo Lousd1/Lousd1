@@ -66,7 +66,7 @@ timeline
 ---
 
 ## 💡 Projects
-
+<img src="assets/project final (7) copie.png" alt="Description" width="200"/>
 * **Project 1 – Streaming Smarter (https://lookerstudio.google.com/reporting/494d411b-2cd2-48cb-8a12-1781b26d1f0d)**
   *BigQuery + Looker Studio.*
 The analysis compare catalogs from Netflix, Disney+, Hulu, and Prime Video by ingesting, standardizing, and unifying platform data, then enriching gaps with an API. The analysis tracks trends over time, genre popularity, and content strategy (format mix, audience, geography, recency). The goal is to surface actionable insights and forward-looking signals to guide content acquisition and regional expansion. Key metrics include library growth, genre diversity, audience mix, country distribution and release recency.
