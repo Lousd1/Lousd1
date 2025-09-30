@@ -75,3 +75,6 @@ The analysis compare catalogs from Netflix, Disney+, Hulu, and Prime Video by in
 
 ---
 ![Snake animation](https://github.com/Lousd1/Lousd1/blob/output/github-contribution-grid-snake.svg)
+
+![snake](https://raw.githubusercontent.com/Lousd1/Lousd1/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/Lousd1/Lousd1/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
