@@ -1,4 +1,3 @@
-
 <img src="assets/banner.svg" alt="From Yachting to Data" width="100%"/>
 
 <h1 align="center">Hi, I'm Laïla 👋</h1>
