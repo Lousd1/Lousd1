@@ -1,7 +1,3 @@
-# README.md (to paste in `Lousd1/Lousd1`)
-
-> Replace the 🎯 sections and links/handles. Keep this file at the repo root.
-
 ---
 
 <img src="assets/banner.svg" alt="From Yachting to Data" width="100%"/>
@@ -90,7 +86,7 @@ The analysis compare catalogs from Netflix, Disney+, Hulu, and Prime Video by in
 
 ## 📬 Contact
 
-**LinkedIn**: [Laïla Soldà] (https://www.linkedin.com/in/laila-solda/)
+**LinkedIn**: [Laïla Soldà](https://www.linkedin.com/in/laila-solda/)
 
 ---
 
